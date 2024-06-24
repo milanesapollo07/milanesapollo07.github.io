@@ -1357,7 +1357,7 @@ body {
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
   .item-inside-1 {
-    background-image: url("../img/fenta.jpg");
+    background-image: url("../img/lol.jpg");
   }
 }
 @media (min-width: 40em) {
@@ -1367,7 +1367,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/fenta.jpg");
+  background-image: url("../img/antes.jpg");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
