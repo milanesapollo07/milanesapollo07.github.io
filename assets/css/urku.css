@@ -8,6 +8,7 @@
 @charset "UTF-8";
 body {
   margin: 0;
+  background-color: #c2b79b;
 }
 
 .rk-container {
@@ -1650,7 +1651,7 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/fe1.jpg");
+  background-image: url("../img/fentanilo-portada-opioide.webp");
 }
 
 .post-3 {
